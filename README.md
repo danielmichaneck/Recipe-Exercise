@@ -1,2 +1,2 @@
 # Recipe-Exercise
-Creating a webpage to show a favourite recipe of mine.
+Creating a webpage to show a favorite recipe of mine.
