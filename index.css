@@ -5,8 +5,10 @@ body {
 .recipe-body {
     color: rgb(109, 27, 27);
     margin: 12px;
-    max-width: 1000px;
+    max-width: 1080px;
     background-color: rgb(255, 246, 234);
+    border-style: none;
+    border:  2px black;
 }
 
 .recipe-title {
@@ -15,11 +17,8 @@ body {
     padding: 12px;
 }
 
-.recipe-intro {
-}
-
-.recipe-details {
-
+.recipe-text {
+    padding: 8px;
 }
 
 button {
@@ -29,7 +28,8 @@ button {
 .banner {
     background-color: rgb(255, 197, 88);
     margin: 0;
-    padding: 0;
+    padding: 6px;
+    color: rgb(51, 46, 46);
 }
 
 .footer {
@@ -38,7 +38,6 @@ button {
 }
 
 .top-button {
-    margin: 4px;
     background-color: rgb(51, 46, 46);
     color: rgb(219, 211, 226);
 }
