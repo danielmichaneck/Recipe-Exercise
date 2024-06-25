@@ -2,19 +2,24 @@ body {
     margin: 0%;
 }
 
-.recipe-body {
-    color: rgb(109, 27, 27);
-    margin: 12px;
-    max-width: 1080px;
-    background-color: rgb(255, 246, 234);
-    border-style: none;
-    border:  2px black;
-}
-
 .recipe-title {
     background-color: rgb(109, 27, 27);
     color: rgb(255, 246, 234);
     padding: 12px;
+    margin-bottom: 0;
+}
+
+.recipe-body {
+    color: rgb(109, 27, 27);
+    margin: 12px;
+    margin-top: 0;
+    max-width: 1080px;
+    background-color: rgb(255, 246, 234);
+}
+
+.recipe-block {
+    margin-top: 0;
+    border:  2px solid rgb(109, 27, 27);
 }
 
 .recipe-text {
