@@ -7,7 +7,7 @@ body {
 
 /*Top bar and footer.*/
 .banner {
-    background-color: rgb(255, 197, 88);
+    background-color: rgb(255, 210, 88);
     margin: 0;
     padding: 6px;
     font-size: large;
@@ -62,4 +62,5 @@ button {
     width: 50%;
     min-width: 300px;
     margin: 12px;
+    border: 1px solid rgb(109, 27, 27);
 }
